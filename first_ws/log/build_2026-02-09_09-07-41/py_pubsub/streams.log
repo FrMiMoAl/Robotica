@@ -1,0 +1,22 @@
+[1.124s] Invoking command in '/home/franco/Desktop/Robotica/first_ws/src/py_pubsub': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/franco/Desktop/Robotica/first_ws/build/py_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/franco/Desktop/Robotica/first_ws/install/py_pubsub/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/franco/Desktop/Robotica/first_ws/build/py_pubsub/build install --record /home/franco/Desktop/Robotica/first_ws/build/py_pubsub/install.log --single-version-externally-managed install_data
+[1.476s] running egg_info
+[1.501s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[1.502s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[1.502s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[1.502s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[1.502s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[1.562s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.563s] adding license file 'LICENSE'
+[1.563s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.564s] running build
+[1.564s] running build_py
+[1.564s] running install
+[1.571s] running install_lib
+[1.598s] running install_data
+[1.598s] running install_egg_info
+[1.630s] removing '/home/franco/Desktop/Robotica/first_ws/install/py_pubsub/lib/python3.12/site-packages/py_pubsub-0.0.0-py3.12.egg-info' (and everything under it)
+[1.630s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/franco/Desktop/Robotica/first_ws/install/py_pubsub/lib/python3.12/site-packages/py_pubsub-0.0.0-py3.12.egg-info
+[1.631s] running install_scripts
+[1.820s] Installing talker script to /home/franco/Desktop/Robotica/first_ws/install/py_pubsub/lib/py_pubsub
+[1.820s] writing list of installed files to '/home/franco/Desktop/Robotica/first_ws/build/py_pubsub/install.log'
+[1.851s] Invoked command in '/home/franco/Desktop/Robotica/first_ws/src/py_pubsub' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/franco/Desktop/Robotica/first_ws/build/py_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/franco/Desktop/Robotica/first_ws/install/py_pubsub/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/franco/Desktop/Robotica/first_ws/build/py_pubsub/build install --record /home/franco/Desktop/Robotica/first_ws/build/py_pubsub/install.log --single-version-externally-managed install_data

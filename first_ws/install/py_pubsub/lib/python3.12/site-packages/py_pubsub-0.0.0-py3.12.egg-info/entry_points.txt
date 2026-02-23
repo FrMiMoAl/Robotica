@@ -1,0 +1,5 @@
+[console_scripts]
+pruebita_publicador = py_pubsub.pub:main
+pruebita_publicador_numeros = py_pubsub.pubNumbers:main
+pruebita_subcriptor = py_pubsub.sub:main
+pruebita_subcriptor_numeros = py_pubsub.SubNumbers:main
