@@ -1,0 +1,30 @@
+# --- Directorios de construcción e instalación ---
+devel/
+logs/
+build/
+install/
+install_isolated/
+devel_isolated/
+
+# --- Binarios y librerías generadas ---
+bin/
+lib/
+msg_gen/
+srv_gen/
+msg_py/
+srv_py/
+
+# --- Archivos de Python ---
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# --- Archivos de configuración de usuario o IDE ---
+.vscode/
+.idea/
+.project
+.cproject
+
+# --- Logs y archivos temporales ---
+*.log
+catkin_generated/
